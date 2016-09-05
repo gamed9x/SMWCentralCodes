@@ -1,4 +1,4 @@
-#DrOcelotPost {
+.DrOcelotPost {
     font-family: 'Raleway', sans-serif;
     background-image: url(https://www.bestwallpapers-hd.com/web/wallpapers/thunder-cloud/2880x1800.jpg);
     background-attachment: fixed;
@@ -7,7 +7,7 @@
     color: white;
     text-shadow: 2px 2px black
 }
-#DrOcelotPostBox {
+.DrOcelotPostBox {
     border-left: 8px solid red;
     background-color: rgba(0, 0, 0, 0.75);
     padding: 5px;
